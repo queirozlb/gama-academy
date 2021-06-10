@@ -1,5 +1,7 @@
 Desafio final Formação Itaú Tech
 
+Acesso: https://affectionate-minsky-841794.netlify.app
+
 Domínio - Modelagem de Dados:
 Formulário de Cadastro Pessoal
 
