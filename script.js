@@ -34,9 +34,6 @@ function validacao(cpf){
             alert("CPF inválido. Verifique os dados e tente novamente.");
             return false;
         }
-
-        //alert("CPF válido");
-        //return true;
     }
 }
 

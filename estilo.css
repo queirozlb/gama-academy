@@ -4,16 +4,6 @@
     box-sizing: border-box;
 }
 
-header{
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-.background{
-    width: max-content;
-}
-
 body{
     background-color: #5f7c8a;
     font-family: 'Roboto', sans-serif;
@@ -50,7 +40,6 @@ main input[type=text],
 main input[type=email],
 main input[type=date],
 select{
-    /**border:1px solid #6f8c99**/
     border: none;
     background-color: #d0dde470;
     cursor: text;
